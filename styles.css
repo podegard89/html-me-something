@@ -1,0 +1,63 @@
+html {
+    font-family: 'Noto Serif', sans-serif;
+}
+
+body {
+    background-color: coral;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+main {
+    border: thick double deeppink;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: goldenrod;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 0.5px;
+    padding-left: 0px; 
+    margin-bottom: 10px;
+}
+
+img {
+    border: 5px solid goldenrod;
+}
+
+h1, h2, h3, #bio, #projects {
+    text-align: center;
+}
+
+#email {
+    display: none;
+    font-family: 'Noto Serif', sans-serif;
+}
+
+#emailCopy {
+    background-color: orangered;
+    font-family: 'Noto Serif', sans-serif;
+    font: italic;
+}
+
+#bio {
+    background-color: orchid;
+    padding-top: 10px;
+}
+
+#skills {
+    background-color: palegreen;
+}
+
+#projects {
+    background-color: palegoldenrod;
+}
+
+footer {
+    background-color: lime;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
